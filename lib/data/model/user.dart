@@ -4,6 +4,7 @@ import 'package:drink/core/db/model/base_model.dart';
 /// 用户数据
 ///
 class User extends BaseModel {
+  @override
   int? id;
   String name;
   String email;

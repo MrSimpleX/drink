@@ -1,5 +1,4 @@
 import 'package:drink/core/db/dao/base_dao.dart';
-import 'package:drink/core/db/db_helper.dart';
 import 'package:drink/data/model/user.dart';
 
 ///
